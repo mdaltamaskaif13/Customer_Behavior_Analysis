@@ -1,5 +1,6 @@
 # Customer_Behavior_Analysis
 🛍️ Customer Behavior Analysis
+
 📌 Project Overview
 
 This project analyzes customer shopping behavior using a dataset of 3,900 purchase transactions to uncover patterns in spending, customer demographics, product preferences, and subscription behavior.
