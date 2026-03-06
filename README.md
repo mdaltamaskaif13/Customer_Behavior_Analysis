@@ -103,4 +103,4 @@ An interactive Power BI dashboard was built to visualize:
 - Focus marketing on high-value customer segments
 
 📷 Dashboard Preview
-![Power BI Dashboard]()
+![Power BI Dashboard](https://github.com/mdaltamaskaif13/Customer_Behavior_Analysis/blob/main/Customer_Behavior_Dashboard_Screenshot.png)
